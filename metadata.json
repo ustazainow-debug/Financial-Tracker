@@ -1,0 +1,6 @@
+{
+  "name": "Financial Tracker",
+  "description": "An offline-first, Material 3 financial dashboard for budgeting, tracking expenses, declaring savings goals, and viewing upcoming bills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
